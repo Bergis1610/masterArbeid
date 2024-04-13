@@ -1,0 +1,14 @@
+Notes:
+
+
+Initial segmentation:
+	Clustering: Does not converge when setting a high starting centroid
+
+
+
+Number of clusters: Silhoutte analysis?
+Initial centroids and number of clusters: Cluster into one cluster first then perform it on the modes?
+Currently manual:
+
+
+Smoothen more harshly the data
