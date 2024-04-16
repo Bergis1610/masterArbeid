@@ -17,3 +17,12 @@ Smoothen more harshly the data
 
 15.04.2024
     Trenger bedre peak generation før clustering
+
+
+16.04.2024
+    Jeg får relativt grei fordeling når jeg kjører krysningspunkt clustering på én og én kolonne, men ikke på alle.
+        - Kan jeg kolonne vis kjøre en clustering?
+
+    - Kan jeg bruke Trym sin idé med tanke på antall clusters?
+
+    - Etter lineær regresjon er gjort, er det en idé å måle avstanden til nærmeste linje og gruppere deretter?
