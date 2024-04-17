@@ -26,3 +26,8 @@ Smoothen more harshly the data
     - Kan jeg bruke Trym sin idé med tanke på antall clusters?
 
     - Etter lineær regresjon er gjort, er det en idé å måle avstanden til nærmeste linje og gruppere deretter?
+
+
+17.04.2024
+    Vurdere å klippe noe av disparity dataen hvis så så mye prosent andel av dataen er utafor?
+    
