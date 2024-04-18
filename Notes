@@ -29,5 +29,26 @@ Smoothen more harshly the data
 
 
 17.04.2024
+    Clustering (opprinnelig/vertikal)
     Vurdere å klippe noe av disparity dataen hvis så så mye prosent andel av dataen er utafor?
     
+    Line fitting (Horisontal)
+    Mulig å gjøre dette over alle kolonner?
+        Sammensmelte linjer? 
+    
+    TODO:
+        Velge nye og bedre farger (ChatGPT)
+            Mørke gjerne, dvs under 128 elns
+        Edge points printing out
+            For én kolonne, GJORT!
+            For alle kolonner
+        Pick out interesting images and columns
+        FastSAM
+            Look up
+            Download FastSAM and segment
+        Meet Eirik Tandberg
+        Corrected disparities
+        Visualise
+            Project onto group plane? Red and blue feks
+            Create a point cloud
+                Ask Nicholas and Trym about this
