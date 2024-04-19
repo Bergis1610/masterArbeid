@@ -52,3 +52,34 @@ Smoothen more harshly the data
             Project onto group plane? Red and blue feks
             Create a point cloud
                 Ask Nicholas and Trym about this
+
+
+19.04.2024
+
+
+    Antall linjer per
+
+    TODO:
+                            
+        Edge points printing out
+            For én kolonne, GJORT!
+            For alle kolonner
+        Pick out interesting images and columns
+        FastSAM
+            Look up
+            Download FastSAM and segment
+
+        Corrected disparities
+        Visualise
+            Project onto group plane? Red and blue feks
+            Create a point cloud
+                Ask Nicholas and Trym about this
+
+        Vertical reclassifisation based on stripes dvs feks k=20 kolonner og 
+    
+
+
+
+    Gjort:
+        Velge nye og bedre farger (ChatGPT)
+            Mørke gjerne, dvs under 128 elns
