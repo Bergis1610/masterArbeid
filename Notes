@@ -132,6 +132,13 @@ Smoothen more harshly the data
 
 
 Backlog:
+
+    - Importere og fikse open3d til bruk
+    - konvertere disparity bilde til x,y,z punktsky
+    - modularisere min pipeline slik at det funker i python filer, ikke notebook
+
+    -  Binomisk filter på vertikale disparities
+
     - Prøve å kjøre vertikal segmentering med stripes, dvs 20 og 20 rader eller noe sånt?
 
     - Korrigere disparity dataen for alle punkt
