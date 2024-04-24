@@ -111,6 +111,26 @@ Smoothen more harshly the data
 
     Prøve å kjøre vannflate segmentering?
 
+
+24.04.2024
+
+    Binomisk filter på vertikale disparities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Backlog:
     - Prøve å kjøre vertikal segmentering med stripes, dvs 20 og 20 rader eller noe sånt?
 
