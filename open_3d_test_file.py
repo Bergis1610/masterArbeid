@@ -1,4 +1,4 @@
 import open3d as o3d
 
 
-print("HEllo it came here")
+print("Hello it came here")
